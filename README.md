@@ -20,4 +20,4 @@ AGGLIC2.RnkXpGMuVRGpaiMuKcAf8hfVS-xZq5vhpj1mAay0KJb98PiHrsSpY_Dey1rMxNCifIajJm-s
 
 
 上面这个是kuciado码  可以下载的范围是000001, 600000 日期范围是2024-01-01 ~ 2024-12-31
-关注我的抖音小红书，粉丝群里不定期分享kuciado码。账号都破万粉会公开无限制的kuciado码
+关注我的抖音小红书，账号id都是leezans，粉丝群里不定期分享kuciado码。账号都破万粉会公开无限制的kuciado码
