@@ -1,22 +1,4 @@
 看到左边的release 了嘛？小白请点他找到exe下载就完事了
 
 
-
-
-
-
-
-AGGLIC2.RnkXpGMuVRGpaiMuKcAf8hfVS-xZq5vhpj1mAay0KJb98PiHrsSpY_Dey1rMxNCifIajJm-sE8l68S_llb1UsGy1LAsoHyIWUwpvKlzTUliG_2EWj7HaRH7LeS0Ijl3oKpQovGnaU679YR8EZgmRH-pL30pwtdY42NroUPNDZ6NX-w2iszs0GqhpG3ci2kzuwDyOMYc-wh-rXGzgmDVr7Fm-R6wayIrK1pmaqGt2g6bf4FP2kY4mdeLPZo11bA.sRFX1Kc0uIwLw-xnjPBCIbuh_KnyZz-EieZ5qD08VYpg4qhXM54IrfG2-qTLHRXpGxvMO0L_Du7BAZStC86yc-H5CntO1IJa-kAJVU6WhOYMKv5b4j8ey7d38_N6BeSDf2HdS33883t6DX5s27vD8VQMXElY5zVAbkiWNNCrtnZq2l8Yizg6br2Z4QVquKejiKpjgwsFhOH8uF038v9W707wT950tXsk1yAnDxd6oX5Kios8-GP2wjSeQfSYnhZ_OXkT-tuwW75lgICJBrR48L8c-lsibeeQpC8YVegPOjXsixqiVSNBED8teyMe1mRaUbyLCc2ULlzktMfGlzg3Ow
-
-
-
-
-
-
-
-
-
-
-
-
-上面这个是kuciado码  可以下载的范围是000001, 600000 日期范围是2024-01-01 ~ 2024-12-31
+当前kuciado码 可以下载的范围是000001, 600000 日期范围是2024-01-01 ~ 2024-12-31
